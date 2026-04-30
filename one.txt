@@ -2,3 +2,8 @@ Remote repository One
 Local Changes 1
 new line 1
 Hello
+An other Feature.
+Feature 1.
+Feature 2.
+Feature 3.
+Feature 4. Droped
